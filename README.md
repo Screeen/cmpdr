@@ -14,6 +14,8 @@ Applicable to speech enhancement, hearing aids, smart devices, and acoustic scen
 
 :book: **Paper (PDF)** https://arxiv.org/abs/2510.18391
 
+:loud_sound: **Audio demos (website)** https://screeen.github.io/cmpdr-demo/
+
 :computer: **New follow-up work** [@narrietal/cMPDR_DNN](https://github.com/narrietal/cMPDR_DNN/)
 <br>
 <br>
